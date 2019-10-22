@@ -1,0 +1,12 @@
+body{}
+
+#titulo{font-size: 15px;}
+#palabra1{color:blue; font-weight: bold;text-decoration-line: underline;}
+#palabra2{color:blue;text-decoration-line: underline;}
+#palabra3{ font-weight: bold}
+#palabra4{color: darkgoldenrod;text-align: left;}
+#tachado{text-decoration: line-through;}
+table{border: black 1px solid;border-collapse:collapse}
+td{border: black 1px solid;}
+th{border: black 1px solid;}
+#palabra5{text-align: center;font-weight: bold;}
